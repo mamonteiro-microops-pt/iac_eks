@@ -43,3 +43,5 @@ module "vpc" {
 
   tags = local.tags
 }
+
+# VPC creation
